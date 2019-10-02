@@ -1,0 +1,7 @@
+# ignore image files
+*.png
+*.jpg
+*.jpeg
+
+# ignore output json file
+*.json
