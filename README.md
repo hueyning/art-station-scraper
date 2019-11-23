@@ -1,4 +1,4 @@
-# art-station-scraper
+# Art Station Scraper
 
 This repo contains a scraper for the website https://www.artstation.com/, as well as some other GAN stuff I've been working on with my scraped data.
 
