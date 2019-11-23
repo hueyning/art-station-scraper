@@ -5,3 +5,10 @@
 
 # ignore output json file
 *.json
+
+# ignore folders with saved data
+data/
+full_data/
+images/
+raw_data/
+cDCGAN/
