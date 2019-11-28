@@ -6,9 +6,12 @@
 # ignore output json file
 *.json
 
+# ignore checkpoint files
+*.pth.tar
+
 # ignore folders with saved data
 data/
 full_data/
 images/
 raw_data/
-cDCGAN/
+
